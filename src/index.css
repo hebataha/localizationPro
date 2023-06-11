@@ -1,0 +1,10 @@
+ul{
+  padding: 0;
+  display: flex;
+  gap:15px;
+  text-transform: capitalize;
+}
+
+li{
+  list-style: none;
+}
