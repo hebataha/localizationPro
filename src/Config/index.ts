@@ -1,7 +1,7 @@
 import { setRouterConfigurations } from "@mongez/react-router";
 import { setAppConfigurations } from "@mongez/react";
 
-import "../Config/Config"
+import "./localization"
 // export { default } from "./Config";
 
 setRouterConfigurations({

@@ -1,7 +1,7 @@
 import { Link, changeLocaleCode } from '@mongez/react-router';
 import React from 'react'
 import { trans } from "@mongez/localization";
-import "../../Config/Config";
+import "../../Config/localization";
 import "../../Config/index";
 import styled from "styled-components";
 import { current } from '@mongez/react';
