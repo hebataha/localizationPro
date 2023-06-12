@@ -1,3 +1,4 @@
+import { Link } from '@mongez/react-router';
 import React from 'react'
 import styled from "styled-components";
 
@@ -10,16 +11,21 @@ export default function Header() {
     <StyledHeader>
       
             <ul>
+            <Link to="/">
         <li>
-          home
+          Home
         </li>
-
+        </Link>
+        <Link to="/about">
         <li>
-          about me
+          About me
         </li>
+        </Link>
+        <Link to="/contact">
         <li>
           contact with me
         </li>
+        </Link>
       </ul>
     </StyledHeader>
   )

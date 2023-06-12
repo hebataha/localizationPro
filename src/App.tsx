@@ -7,8 +7,7 @@ function App() {
 
   return (
     <>
-   <Header/>
-   <Footer/>
+  <h21>Home</h21>
     </>
   )
 }
