@@ -1277,6 +1277,24 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
+"@mongez/concat-route@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@mongez/concat-route/-/concat-route-1.0.0.tgz#c2c0d26274c6135914be5f64670a2986aa443ce2"
+  integrity sha512-yl0kNPilESIk3GcdZtgChfpfVc8VzqQmHTZ+H12wuxACWl7hbA9jK8xQrjvdh+IIxd4Wzr4eaDfrpRpPTvwSQw==
+
+"@mongez/events@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@mongez/events/-/events-2.1.0.tgz#644fa0c0ae226f162ccca4a755a059892d545253"
+  integrity sha512-gUTDm8fy0BRJmG/kkSmLi/Ir2PAFQQtk0FE9GGivnIK5YpGJD6MFrIj3Ui8SN3mMFKvCJae6zJjuYv6fLFQgBQ==
+
+"@mongez/react-router@^2.1.22":
+  version "2.1.22"
+  resolved "https://registry.yarnpkg.com/@mongez/react-router/-/react-router-2.1.22.tgz#2978d88985849b27935a02de6de6464ce39f6b04"
+  integrity sha512-cSSbpshmLSWa5cqvhJYdGfNEgJenVQyAbmN3758vXFLMwAMqiPB9IPtN/iUkysAz9UdjviSKbt7gns79RCdnbg==
+  dependencies:
+    "@mongez/concat-route" "^1.0.0"
+    "@mongez/events" "^2.1.0"
+
 "@nicolo-ribaudo/chokidar-2@2.1.8-no-fsevents.3":
   version "2.1.8-no-fsevents.3"
   resolved "https://registry.yarnpkg.com/@nicolo-ribaudo/chokidar-2/-/chokidar-2-2.1.8-no-fsevents.3.tgz#323d72dd25103d0c4fbdce89dadf574a787b1f9b"
