@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mongez/localization": "^2.2.2",
+    "@mongez/react": "^3.0.6",
     "@mongez/react-router": "^2.1.22",
+    "mongez": "^1.3.31",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "styled-components": "^6.0.0-rc.3"
